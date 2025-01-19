@@ -3,7 +3,7 @@
 Building financial infrastructure in London.  
 Focused on performance, scalability, and engineering clarity.
 
-## Core Expertise
+## Core Stack
 
 Python · FastAPI · Django · AWS
 
